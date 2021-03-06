@@ -2,5 +2,12 @@
   "engineName": "news",
   "endpointBase": "https://abe5f3c5392c454f817140e4c48f6507.ent-search.eastus2.azure.elastic-cloud.com",
   "searchKey": "search-mbpa4aa64p4uduqhxosvea4h",
-  "resultFields": "data"
+  "resultFields": "data",
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ],
+  "urlField": "data"
 }
