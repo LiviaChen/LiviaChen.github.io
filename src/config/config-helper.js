@@ -1,5 +1,5 @@
 // import config from "../config/engine.json";
-import config from "./engine.json";
+import config from "C:\Users\DA01028\Desktop\Elasticsearch\news-react-demo-ui\src\config";
 
 /**
  * This file abstracts most logic around the configuration of the Reference UI.
