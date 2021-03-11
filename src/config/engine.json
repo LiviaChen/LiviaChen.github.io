@@ -5,13 +5,27 @@
   "resultFields": [
     "schema",
     "data",
+    "description",
+    "title",
+    "nps_link",
+    "article",
+    "content",
+    "states",
+    "visitors",
+    "site",
+    "square_km",
+    "world_heritage_site",
+    "date_established",
+    "location",
+    "time",
+    "acres",
     "id"
   ],
   "sortFields": [
-
+    "time"
   ],
   "facets": [
-
+    "time"
   ],
-  "urlField": "data"
+  "titleField": "title"
 }
